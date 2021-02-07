@@ -1,0 +1,58 @@
+{
+  "save": {
+    "action": "Save settings",
+    "msg": "Your settings have been saved."
+  },
+  "segments": {
+    "general": "General",
+    "tracker": "Tracker",
+    "templates": "Templates"
+  },
+  "general": {
+    "theme": "Theme",
+    "signature": "Signature for exported documents",
+    "mode":  {
+      "dark": "Dark",
+      "light": "Light"
+    },
+    "notifications": {
+      "title": "Notifications for tasks in progress",
+      "body": "Remind me every hour",
+      "dont": "Don't remind me"
+    },
+    "backup": {
+      "title": "Backup",
+      "on": "Once a week",
+      "off": "Never"
+    }
+  },
+  "templates": {
+    "title": "Templates for the descriptions of the tasks",
+    "actions": {
+      "add": "Add a template",
+      "reorder": "Reorder",
+      "edit": "Edit templates"
+    },
+    "edit": {
+      "title": "Template"
+    }
+  },
+  "tracker": {
+    "time": {
+      "title": "Round tracked time",
+      "minute": {
+        "1": "1 minute",
+        "5": "5 minutes",
+        "15": "15 minutes"
+      }
+    },
+    "currency": {
+      "title": "Currency",
+      "filter": "Filter currencies"
+    },
+    "vat": {
+      "title": "Vat",
+      "input": "Vat value input"
+    }
+  }
+}
